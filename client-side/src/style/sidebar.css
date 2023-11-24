@@ -1,0 +1,21 @@
+.active{
+    border: 0px;
+}
+.nav-pills .nav-link{
+    background-color: white;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #09ABF4;
+    color: white;
+}
+.sidebar-area{
+    background-color: white;
+  
+   
+}
+@media screen and (max-width: 990px){
+    .nav-item a p{
+display:none;
+    }
+}
+

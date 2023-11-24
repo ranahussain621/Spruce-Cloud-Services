@@ -1,0 +1,60 @@
+.contact__page__wrapper {
+  margin: 120px 0px;
+}
+
+.contact-title {
+  color: #09abf4;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 60px;
+}
+
+.contact__form__wrapper {
+  border: 1px solid #ddd;
+  box-shadow: -1px 2px 11px -3px black;
+  padding: 40px 30px;
+  border-radius: 5px;
+}
+
+.form__title {
+  color: #263238;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 60px;
+}
+
+.input__filed {
+  padding: 8px 15px;
+  border-radius: 10px;
+}
+
+.input__filed:focus {
+  outline: none;
+}
+
+.input__label {
+  font-size: 18px;
+}
+
+.react-tel-input input.form-control {
+  width: 100%;
+}
+
+.text__area {
+  height: 150px;
+}
+
+.submit__button {
+  font-size: 24px;
+  padding: 8px 15px;
+  border-radius: 10px;
+  border: none;
+}
+.PhoneInputCountry{
+  width: auto;
+}
+.PhoneInputInput{
+border: 1px solid #e0e0e0;
+border-radius: 5px;
+height: 40px;
+}

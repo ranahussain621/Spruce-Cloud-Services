@@ -1,0 +1,7 @@
+.pointer:hover a{
+    border-bottom: 3px solid ;
+   
+}
+.pointer:hover .navTitle{
+     color:rgb(10, 81, 144)
+}

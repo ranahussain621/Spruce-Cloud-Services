@@ -1,0 +1,77 @@
+.line {
+
+    width: 220px;
+    height: 1px;
+    background-color: grey;
+    margin: 30px;
+}
+
+.inp {
+
+    width: 700px;
+}
+
+
+#form {
+
+    width: 750px;
+}
+
+.card_pack {
+
+    width: auto;
+}
+
+.ff {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.btnn {
+
+    width: auto;
+}
+
+.btnn1 {
+
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+
+
+    #form {
+
+        width: 200px;
+    }
+
+    .card_pack {
+
+        width: 200px;
+    }
+
+    .line {
+
+        width: 100px;
+    }
+
+    .ff {
+
+        justify-content: space-between;
+
+    }
+
+    .btnn {
+
+        display: none;
+    }
+
+    .btnn1 {
+
+        display: block;
+    }
+
+
+}

@@ -1,0 +1,117 @@
+.customFontSize{
+    font-size: 76px;
+}
+.calculation-text{
+    font-size: 76px; 
+}
+.head-image{
+    max-width: 630px;
+}
+
+@media (max-width: 576px) {
+    .customFontSize {
+        font-size: 30px;
+      }
+      .lineImage{
+          width: 40px;
+      }.text_2{
+          font-size: 14px; 
+      }
+      .calculation-text{
+          font-size: 30px; 
+      }
+      .calculation-des{
+          font-size: 12px;
+      }
+  }
+  @media (min-width: 576px) and (max-width: 768px) {
+    .customFontSize {
+        font-size: 34px;
+      }
+      .lineImage{
+          width: 40px;
+      }.text_2{
+          font-size: 16px; 
+      }
+      .calculation-text{
+          font-size: 34px; 
+      }
+      .calculation-des{
+          font-size: 14px;
+      }
+  }
+  @media (min-width: 768px) and (max-width: 992px) {
+    .customFontSize {
+      font-size: 40px;
+    }
+    .lineImage{
+        width: 40px;
+    }.text_2{
+        font-size: 18px; 
+    }
+    .calculation-text{
+        font-size: 40px; 
+    }
+    .calculation-des{
+        font-size: 16px;
+    }
+  }
+
+  @media (min-width: 992px) and (max-width: 1279px) {
+    .customFontSize {
+        font-size: 52px;
+      }
+      .lineImage{
+          width: 40px;
+      }.text_2{
+          font-size: 24px; 
+      }
+      .calculation-text{
+          font-size: 50px; 
+      }
+      .calculation-des{
+          font-size: 24px;
+      }
+      .head-image{
+        max-width: 570px;
+    }
+  }
+  @media (min-width: 1280px) and (max-width: 1439px) {
+    .customFontSize {
+        font-size: 48px;
+      }
+      .lineImage{
+          width: 36px;
+      }.text_2{
+          font-size: 22px; 
+      }
+      .calculation-text{
+          font-size: 46px; 
+      }
+      .calculation-des{
+          font-size: 18px;
+      }
+    .head-image{
+        max-width: 520px;
+    }
+}
+
+@media (min-width: 1440px) and (max-width: 1919px) {
+    .customFontSize {
+        font-size: 52px;
+      }
+      .lineImage{
+          width: 40px;
+      }.text_2{
+          font-size: 24px; 
+      }
+      .calculation-text{
+          font-size: 50px; 
+      }
+      .calculation-des{
+          font-size: 24px;
+      }
+    .head-image{
+        max-width: 570px;
+    }
+}
